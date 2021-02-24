@@ -8,3 +8,5 @@ application.
 
 **Project Info:**
 “Movie Theater Management System” contains the following features:
+
+**User Group Management:**
