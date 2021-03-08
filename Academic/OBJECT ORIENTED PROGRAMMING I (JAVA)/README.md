@@ -25,7 +25,7 @@ The system will have an extensive user module with create/edit users’ info lik
 **Feature List:**
 The application offers the following features accordingly: 
 
-The Admin
+Admin will have:
 
 1.	Admin can sign in & sign out from the system with a unique id of his/her.
 2.	Admin can update his/her password.
@@ -40,4 +40,18 @@ The Admin
 11.	Admin can enroll new movies.
 12.	Admin can view/update movie price info.
 13.	Admin can track the financial information like profit from selling tickets etc.
+
+Customer Manager will have:
+
+1.	CM can sign in & sign out from the system with a unique id like email of his/her.
+2.	CM can update his/her password.
+3.	CM can view his/ her profile.
+4.	And he/she can edit his/her own profile. (terms & conditions will be applied).
+5.	CM can view movies’ info (enter movie list)
+6.	CM can view the information regarding movie schedules (running movie list).
+7.	CM can sell Ticket(s) to customers.
+8.	CM can check/track his sell information.
+9.	CM can check/track his monthly salary/stipend/commission information.
+10.	CM can check notifications/messages.
+
 
