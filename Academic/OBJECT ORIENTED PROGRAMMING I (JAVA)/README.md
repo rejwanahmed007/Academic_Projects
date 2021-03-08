@@ -15,3 +15,9 @@ Three kinds of user are introduced in this project. These are:
     1.	Admin/Manager
     2.	Ticket Seller/Customer Manager
     3.	Customer
+
+**User Management:**
+The system will have an extensive user module with create/edit users’ info like:
+
+1.	User Login
+2.	User Access Management
