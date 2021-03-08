@@ -19,5 +19,5 @@ Three kinds of user are introduced in this project. These are:
 **User Management:**
 The system will have an extensive user module with create/edit users’ info like:
 
-1.	User Login
-2.	User Access Management
+    1.	User Login
+    2.	User Access Management
