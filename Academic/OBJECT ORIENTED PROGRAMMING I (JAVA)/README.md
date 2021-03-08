@@ -11,6 +11,7 @@ application.
 
 **User Group Management:**
 Three kinds of user are introduced in this project. These are:
+
     1.	Admin/Manager
     2.	Ticket Seller/Customer Manager
     3.	Customer
