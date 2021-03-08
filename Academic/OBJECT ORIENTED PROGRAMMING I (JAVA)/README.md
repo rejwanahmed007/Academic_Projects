@@ -54,4 +54,15 @@ Customer Manager will have:
 9.	CM can check/track his monthly salary/stipend/commission information.
 10.	CM can check notifications/messages.
 
+Customer will have:
 
+1.	Customer can sign in & sign out from the system with a unique id like email of his/her.
+2.	Customer can update his/her password.
+3.	Customer can view his/her profile.
+4.	Customer can update his/her own profile (terms & conditions will be applied).
+5.	Customer can view movie & price info (enter movie list).
+6.	Customer can view the information regarding movie schedules (running movie list).
+7.	Customer can buy ticket (terms & conditions will be applied).
+8.	Customer can check his/her purchased history.
+9.	Customer can complain/give feedback.
+10.	Customer can view notifications/feedback messages from Admin.
