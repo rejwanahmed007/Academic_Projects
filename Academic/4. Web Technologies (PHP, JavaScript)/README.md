@@ -1,10 +1,12 @@
 **Course Info:**
-This course is all about learning basic “C#” programming language along with the implementation of database. The course offers C# programming along with strong OOP concept. During this course I built a desktop-based software named “Railway Management System” as the final project of this course. For database I used MS SQL (basic SQL queries) and Metro Modern UI for window-based application.
+This course is all about learning Web Technlogies like HTML, CSS, XML, JSON, JavaScript, PHP, AJAX etc. along with the implementation of database. During this course I built a web-based software named “Train Ticketing System” as the final project of this course. For database I used MySQL.
 
 **Project Info:**
 
 **Introduction:**
-Railway Management System is designed to support in a beautiful way for tracking, prioritizing, and solving passengers’ tickets purchasing problem. Using this system any passenger can easily check train info, route plan, train schedule, ticket price etc.  This project presents a facility which is used to reserve seats, cancellation of reservation and different types of route enquiries. It maintains all admin, customer manager, passenger information, train schedule & reservation details etc.
+
+Train ticketing System is designed to support in a beautiful way for tracking, prioritizing, and solving passengers’ tickets purchasing problem. Using this system any passenger can easily buy tickets from a long distance or remote area by just accessing this system through internet as this system is a web-based application.  This project presents a facility which is used to reserve seats, cancellation of reservation and different types of route enquiries. It maintains all admin, customer manager, passenger information, train schedule & reservation details etc.
+
 
 **Requirement Analysis:**
 
@@ -68,18 +70,21 @@ In this project the **“User Type- Passenger”** has the following features:
 
 To develop this project, I used the following tools:
 
-    •	Visual Studio 2019 (Community)
-    •	Microsoft SQL Server Management Studio 18
+    •	Sublime Text (Text Editor)
+    •	XAMPP (Apache, MySQL)
     •	draw.io (an online tools’ used for drawing the ER Diagram)
+    
     
 ** Contributor:**
 
     REJWAN AHMED
     ID: 12-20111-1
     CSSE, AIUB
-    Summer 2018-2019
-    Course: OBJECT ORIENTED PROGRAMMING II (C#)
+    Fall 2019-2020![Train Ticketing System](https://user-images.githubusercontent.com/44577140/110500461-6ac3fe00-8123-11eb-8844-0547e2af919c.png)
+
+    Course: Web Technologies
     Section: A
+    Contribution: Database Design, Login/Sign Up, Admin Part
 
 **Background Study**
 
