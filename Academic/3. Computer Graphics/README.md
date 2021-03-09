@@ -16,7 +16,7 @@ To develop this project, We used the following tools:
     •	Codeblock
     •	OpenGL & GLUT
     
-** Contributor:**
+** Contributors:**
 
       1. REJWAN AHMED
         ID: 12-20111-1
