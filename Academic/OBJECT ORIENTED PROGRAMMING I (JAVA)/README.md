@@ -1,10 +1,5 @@
 **Course Info:**
-This course is all about learning basic “Java” programming language along with
-the implementation of database. The course offers basic Java programming along
-with strong OOP concept. During this course I built a desktop-based software
-named “Movie Theater Management System” as the final project of this course. For
-database I used MySQL (basic SQL queries) and swing in Java for window-based
-application.
+This course is all about learning basic “Java” programming language along with the implementation of database. The course offers basic Java programming along with strong OOP concept. During this course I built a desktop-based software named “Movie Theater Management System” as the final project of this course. For database I used MySQL (basic SQL queries) and swing in Java for window-based application.
 
 **Project Info:**
 “Movie Theater Management System” contains the following features:
@@ -66,3 +61,21 @@ The application offers the following features accordingly:
 8.	Customer can check his/her purchased history.
 9.	Customer can complain/give feedback.
 10.	Customer can view notifications/feedback messages from Admin.
+
+
+**Tools Used:**
+
+To develop this project, I used the following tools:
+
+    •	Notepad++ (Text Editor)
+    •	XAMPP (MySQL)
+    •	Mockup (for UI Design)
+    
+** Contributor:**
+
+    REJWAN AHMED
+    ID: 12-20111-1
+    CSSE, AIUB
+    Spring 2018-2019
+    Course: OBJECT ORIENTED PROGRAMMING I (JAVA)
+    Section: C
