@@ -71,6 +71,15 @@ To develop this project, I used the following tools:
     •	Visual Studio 2019 (Community)
     •	Microsoft SQL Server Management Studio 18
     •	draw.io (an online tools’ used for drawing the ER Diagram)
+    
+** Contributor:**
+
+    REJWAN AHMED
+    ID: 12-20111-1
+    CSSE, AIUB
+    Summer 2018-2019
+    Course: OBJECT ORIENTED PROGRAMMING II (C#)
+    Section: A
 
 **Background Study**
 
