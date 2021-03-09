@@ -74,14 +74,22 @@ To develop this project, I used the following tools:
     •	XAMPP (Apache, MySQL)
     •	draw.io (an online tools’ used for drawing the ER Diagram)
     
+**Web Technology Used:**
+
+To develop this project, I used the following web technologies:
+
+    •	HTML, CSS (for UI design)
+    •	JSON, XML (for data parsing)
+    •	PHP (for servere side)
+    •	JavaScript (for client side)
+    
     
 ** Contributor:**
 
     REJWAN AHMED
     ID: 12-20111-1
     CSSE, AIUB
-    Fall 2019-2020![Train Ticketing System](https://user-images.githubusercontent.com/44577140/110500461-6ac3fe00-8123-11eb-8844-0547e2af919c.png)
-
+    Fall 2019-2020
     Course: Web Technologies
     Section: A
     Contribution: Database Design, Login/Sign Up, Admin Part
